@@ -54,15 +54,12 @@ Runway 3 idle: Both queues empty
 ...and so on
 
 End statistics:
-Total number of planes: s
-Number of planes arrived: m
-Number of planes ready to depart: r
-Number of planes successfully landed: u
-Number of planes successfully taken-off: t
-Number of planes redirected before landing: h
-Number of planes cancelled from take-off: i
-Number of planes still in landing queue: g 
-Number of planes still in take-off queue: o
- 
-
-   
+Total number of planes: 
+Number of planes arrived: 
+Number of planes ready to depart: 
+Number of planes successfully landed: 
+Number of planes successfully taken-off: 
+Number of planes redirected before landing: 
+Number of planes cancelled from take-off: 
+Number of planes still in landing queue:  
+Number of planes still in take-off queue: 
